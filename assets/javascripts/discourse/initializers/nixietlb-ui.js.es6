@@ -11,8 +11,8 @@ function initializePlugin(api)
         toolbar.addButton({
           id: "btna_button",
           group: "extras",
-          icon: "btna_icon",
-          perform: e => e.addText('btna_code')
+          icon: "siteSettings.btna_icon",
+          perform: e => e.addText('siteSettings.btna_code')
         });
       });
 
