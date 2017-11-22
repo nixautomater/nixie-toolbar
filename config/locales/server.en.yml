@@ -1,0 +1,5 @@
+en:
+  site_settings:
+    nixietlb_ui: 'Activate the nixie toolbar?'
+    btna_icon: 'Text to paste when clicking the button 1'
+    btna_code: 'Icon or unicode for button 1'

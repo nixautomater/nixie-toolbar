@@ -1,0 +1,8 @@
+﻿plugins:
+  nixietlb_ui:
+    default: true
+    client: true
+  btna_icon:
+    default: ''
+  btna_code:
+    default: ''
